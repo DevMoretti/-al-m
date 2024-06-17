@@ -19,7 +19,7 @@ body {
 }
 
 .button {
-    background-color: #33cc33;
+    background-color: #0e4e96;
     color: #ffffff;
     width: 70%;
     padding: 10px 20px;
@@ -31,7 +31,7 @@ body {
 }
 
 button:hover {
-    background-color: #28a745;
+    background-color: #0e4e96;
 }
 
 .img_header{
